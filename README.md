@@ -1,169 +1,204 @@
-# 👨🏻‍🏫 인프런 클론 코딩
+# **Website Redesign Project:** 
+### 인프런 클론 코딩   
 
-## 작업자 : 박서영
+<br/>
+  
+**박서영, Park seo young**  
 
----
+<br/>
 
-## 제작 기간
-- 총 작업 시간: **30시간**
+#### **Schedule** 
+> 총 작업 시간 : **30시간**
 
----
+<br/>
+<br/>
+<br/>
 
-## ⭐️ 프로젝트 설명
+## 목차
+1. [프로젝트 개요](#1-프로젝트-개요)   
+2. [파일 구성](#2-파일-구성)   
+3. [주요 기능 소개](#3-주요-기능-소개)    
+4. [작업 환경](#4-작업-환경)   
+5. [관련 링크](#5-관련-링크)   
 
-이 프로젝트는 **인프런 공식 웹 사이트**를 클래스101의 사이트의 디자인을 활용하여 리디자인한 웹 리뉴얼 작업입니다.  
-기존 사이트의 컨텐츠 및 내용 등을 사용하여 기존의 사이트 보다는 다양한 기능인 **스와이프**, **카운트다운** 등을 도입하였습니다.
-
-### 메인 페이지
-
-- **대표 기능**
-  - 얼리버드 특가 **카운트다운**
-  - 인사이트 카드형태의 **스와이프** 콘텐츠
-  - 서브페이지에서의 **아코디언**기능을 사용
-
-- **UI 특징**
-  - 와이드 배너 중심의 시각적 집중 구성
-  - 접근성 높은 **아이콘 UI 및 탭 인터페이스**
-  - 다양한 정보를 시각적으로 한눈에 정리
-
-- **검색/네비게이션**
-  - 헤더 메뉴를 통한 섹션 이동
-  - 콘텐츠별 필터링 가능한 UI 설계
+</br>
+</br>
+</br>
 
 ---
 
-## 💻 개발 환경
+## 1. 프로젝트 개요
 
-- **개발 환경**  
-  <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
+### 1.1. 작업 배경
+이 프로젝트는 인프런 공식 웹 사이트를 클래스101의 사이트의 디자인을 활용하여 리디자인한 웹 리뉴얼 작업입니다.
+기존 사이트의 컨텐츠 및 내용 등을 사용하여 기존의 사이트 보다는 다양한 기능인 스와이프, 카운트다운 등을 도입하였습니다.   
 
-- **사용 프로그램**  
-  <img src="https://img.shields.io/badge/Vs code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-
-- **사용 기술**  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white"/>
+</br>
+</br>
+</br>
 
 ---
 
-## 👀 페이지 구성
+## 2. 파일 구성
+```
+🌱 Inflearn  
+ ┣ 📂 images   
+ ┣ 📂 include     
+ ┣ 📂 html
+ ┣ 📂 scss    
+ ┣ 📂 css 
+ ┗ 📂 script    
+   📄 index.html    
+```
 
-### 메인 페이지
+   </br>
+   </br>
+   </br>
 
-#### 섹션1 : 메인비주얼
+---
 
+## 3. 주요 기능 소개
+
+### 3.1. 메인 페이지
+#### 3.1.1. 메인비주얼
 ![메인비주얼](https://github.com/user-attachments/assets/ee30e655-9eb0-435a-a688-ea0a0e0c5e19)
+1. 상단에 검색창과 전체메뉴를 통해 사용자의 편리성을 확장하였습니다.
+2. 메인페이지는 스와이퍼 형태로 두어 3개의 배너를 확인하실 수 있습니다.
+3. 아이콘 바로가기를 두어 사용자가 자주 사용하고 이용하기 편하도록 배치해두었습니다.
+4. 하단 우측의 팝업창은 클릭시에 닫히는 형태를 보실 수 있습니다.
 
-| 상단에 검색창과 전체메뉴를 통해 사용자의 편리성을 확장하였습니다. <br>
-| 메인페이지는 스와이퍼 형태로 두어 3개의 배너를 확인하실 수 있습니다. <br>
-| 아이콘 바로가기를 두어 사용자가 자주 사용하고 이용하기 편하도록 배치해두었습니다. <br>
-| 하단 우측의 팝업창은 클릭시에 닫히는 형태를 보실 수 있습니다.
+</br>
+</br>
+</br>
 
----
-
-#### 섹션2 : 인사이트 카드&스와이프형 콘텐츠
-
+#### 3.1.2. 인사이트 카드&스와이프형 콘텐츠
 ![인사이트](https://github.com/user-attachments/assets/122fea97-7c20-4d97-b2c5-ba8b1c50a0f6)
+1. 강의들의 목록을 스와이퍼 형태로 두어 계속 반복되게 만들었습니다.
+2. 각 카드엔 이미지, 제목, 강의시간, 별점 등 알찬 정보들을 통해 정보 전달에 효과적입니다.
 
-| 강의들의 목록을 스와이퍼 형태로 두어 계속 반복되게 만들었습니다.  <br>
-| 각 카드엔 이미지, 제목, 강의시간, 별점 등 알찬 정보들을 통해 정보 전달에 효과적입니다.
+</br>
+</br>
+</br>
 
----
-
-#### 섹션3 : 베스트 강의 섹션
-
+#### 3.1.3. 베스트 강의 섹션
 ![베스트강의](https://github.com/user-attachments/assets/7084e9db-d90f-4445-819a-54d518067423)
+1. 좌측에는 이미지배너를 두어 홍보 효과를 더했습니다.
+2. 우측에는 플랙스형태로 두어 정렬했습니다.
+3. 반응형에서는 이미지 배너가 사라지고 하단에 쿠폰 배너를 사용하였습니다.
 
-| 좌측에는 이미지배너를 두어 홍보 효과를 더했습니다.<br>
-| 우측에는 플랙스형태로 두어 정렬했습니다.<br>
-| 반응형에서는 이미지 배너가 사라지고 하단에 쿠폰 배너를 사용하였습니다.
+</br>
+</br>
+</br>
 
----
-
-#### 섹션4 : 얼리버드 섹션
-
+#### 3.1.4. 얼리버드 섹션
 ![얼리버드](https://github.com/user-attachments/assets/3eeafd06-3949-4d0d-8976-195fb83a041b)
+1. 얼리버드 한정 시간이 적용되어 시간이 줄어드는 모습을 보실 수 있습니다.
 
-| 얼리버드 한정 시간이 적용되어 시간이 줄어드는 모습을 보실 수 있습니다.  
+</br>
+</br>
+</br>
 
----
-
-#### 섹션5 : 블로그 섹션
-
+#### 3.1.5. 블로그 섹션
 ![블로그](https://github.com/user-attachments/assets/4c2d847e-6601-44cc-a465-a21f9dfb5d4f)
+1. 블로그 내용처럼 3개의 내용들을 위에 강의 섹션들처럼 깔끔하게 정리했습니다.
 
-| 블로그 내용처럼 3개의 내용들을 위에 강의 섹션들처럼 깔끔하게 정리했습니다.
 
----
+</br>
+</br>
+</br>
 
-#### 섹션6 : 팁 & 테크 섹션
-
+#### 3.1.6. 팁 & 테크 섹션
 ![팁&테크](https://github.com/user-attachments/assets/97c2df9f-39b3-4c29-a355-6c0af32ac00f)
+1. 공지사항, 지원사업, 교육과정 등 자주 찾는 기능을 아이콘으로 배치하여 빠른 접근성 확보하였습니다.
+2. 직관적인 UI로 정보 탐색 시간 단축.
 
-| 공지사항, 지원사업, 교육과정 등 자주 찾는 기능을 아이콘으로 배치하여 **빠른 접근성** 확보하였습니다..  
-| 직관적인 UI로 정보 탐색 시간 단축.
+</br>
+</br>
+</br>
 
----
-
-#### 섹션7 : 푸터 섹션
-
+#### 3.1.7. 푸터 섹션
 ![푸터](https://github.com/user-attachments/assets/b7df1116-ec7e-4240-83b0-e4b38d261d5f)
+1. 공지사항, 지원사업, 교육과정 등 자주 찾는 기능을 아이콘으로 배치하여 빠른 접근성 확보하였습니다.
+2. 직관적인 UI로 정보 탐색 시간 단축.
 
-| 공지사항, 지원사업, 교육과정 등 자주 찾는 기능을 아이콘으로 배치하여 **빠른 접근성** 확보하였습니다..  
-| 직관적인 UI로 정보 탐색 시간 단축.
+</br>
+</br>
+</br>
+
 
 ---
 
-### 서브 페이지
+### 3.2. 서브 페이지 (총 2개)
 
-#### 서브01 : 로그인
-
+#### 3.2.1. 로그인
 ![로그인](https://github.com/user-attachments/assets/d2dc8ecd-4af0-4f00-b5dc-cb6fe79ee72b)
+1. 로그인페이지의 맞는 문구를 배치하여 적용하였습니다.
+2. 좌측의 메뉴들에 호버시에 앞쪽에 선이 나오게 디자인하였습니다.
 
-| 티켓 예매 페이지로 구성되며, Swiper로 다양한 전시/공연 정보를 정리.  
-| 오른쪽 상단에 티켓 유형별 색상 라벨 적용.  
-| 안내 섹션 및 아코디언 메뉴로 사용자 편의를 강화.
+</br>
+</br>
+</br>
 
----
-
-#### 서브02 : 회원가입
-
+#### 3.2.2. 회원가입
 ![회원가입](https://github.com/user-attachments/assets/5290c44a-c93b-45be-b13b-a2015b1f26c2)
+1. 하단의 페이지네이션을 이용하여 10개씩 순차적으로 넘어가게 배치해두었습니다.
+2. 깔끔한 디자인으로 정보에 대한 접근성을 높였습니다.
 
-| 하단의 페이지네이션을 이용하여 10개씩 순차적으로 넘어가게 배치해두었습니다.  
-| AOS 스크롤 애니메이션을 통해 지루함 없는 사용자 경험 제공.
+</br>
+</br>
+</br>
 
----
-
-#### 서브03 : 상세페이지
-
+#### 3.2.2. 상세페이지
 ![상세페이지1](https://github.com/user-attachments/assets/6d3c43ee-4468-4770-847b-305c1afb50e7)
-
-| 티켓 예매 페이지로 구성되며, Swiper로 다양한 전시/공연 정보를 정리.  
+1. 하단의 페이지네이션을 이용하여 10개씩 순차적으로 넘어가게 배치해두었습니다.
 ![상세페이지2](https://github.com/user-attachments/assets/d5e4787a-910f-4382-8136-9e639accd67d)
-
-| 티켓 예매 페이지로 구성되며, Swiper로 다양한 전시/공연 정보를 정리.  
+1. 깔끔한 디자인으로 정보에 대한 접근성을 높였습니다.
 ![상세페이지3](https://github.com/user-attachments/assets/7ec15cc9-af8b-431e-9a81-abf6cebd17cf)
+1. 깔끔한 디자인으로 정보에 대한 접근성을 높였습니다.
 
-| 오른쪽 상단에 티켓 유형별 색상 라벨 적용.  
-| 안내 섹션 및 아코디언 메뉴로 사용자 편의를 강화.
+</br>
+</br>
+</br>
 
----
-
-#### 서브04 : 장바구니
-
+#### 3.2.2. 장바구니
 ![장바구니](https://github.com/user-attachments/assets/0e965085-db4d-4c70-b13a-afcd03b58c14)
+1. 하단의 페이지네이션을 이용하여 10개씩 순차적으로 넘어가게 배치해두었습니다.
+2. 깔끔한 디자인으로 정보에 대한 접근성을 높였습니다.
 
-| 하단의 페이지네이션을 이용하여 10개씩 순차적으로 넘어가게 배치해두었습니다.  
-| AOS 스크롤 애니메이션을 통해 지루함 없는 사용자 경험 제공.
+</br>
+</br>
+</br>
 
 ---
 
-## 🚀 링크
+## 4. 개발 환경
 
+1. **개발 환경**  
+   <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
+
+2.  **사용 프로그램**  
+   <img src="https://img.shields.io/badge/Vs code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+
+3.  **사용 기술**  
+ <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white"/>
+    
+    
+4.  **작업 해상도**   
+    4.1.  PC 기준 1920X1080  
+    4.2.  반응형 대응 768px
+
+</br>
+</br>
+</br>
+
+---
+
+## 5. 관련 링크
 - [🎨 디자인 시안](https://www.figma.com/design/FARNKdnAIcQ5WngSMrL0pj/%ED%81%B4%EB%9E%98%EC%8A%A4101?node-id=0-1&m=dev&t=TamZ5RxhDKgN7HvQ-1)
 - [🌐 DEMO 페이지](https://young0234.github.io/Inflearn/)
+</br>
+</br>
+</br>
 
+
+---
