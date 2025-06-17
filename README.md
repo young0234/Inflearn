@@ -55,7 +55,7 @@
 
 #### 섹션1 : 메인비주얼
 
-![메인비주얼](https://github.com/user-attachments/assets/86cccbda-e68d-4720-945f-0a22839db689)
+![메인비주얼](https://github.com/user-attachments/assets/ee30e655-9eb0-435a-a688-ea0a0e0c5e19)
 
 | 좌측에는 ‘문화가 있는 날’ **D-day 카운터**를 함께 배치하여, 사이트 방문자의 시선을 사로잡습니다. <br>
 | D-day 카운터의 시간을 조정하여 남은 시간의 양을 한 번에 알아볼 수 있습니다. <br>
@@ -63,47 +63,56 @@
 
 ---
 
-#### 섹션2 : 주요 서비스 바로가기 섹션
+#### 섹션2 : 인사이트 카드&스와이프형 콘텐츠
 
-![주요 서비스 바로가기 섹션](https://github.com/user-attachments/assets/9a5b2c1c-7964-4a01-a97b-204aa36f53e5)
-
-| 공지사항, 지원사업, 교육과정 등 자주 찾는 기능을 아이콘으로 배치하여 **빠른 접근성** 확보하였습니다..  
-| 직관적인 UI로 정보 탐색 시간 단축.
-
----
-
-#### 섹션3 : 인사이트 카드&스와이프형 콘텐츠
-
-![인사이트](https://github.com/user-attachments/assets/88f54383-50c3-4700-a64a-5c1ea2f7fb21)
+![인사이트](https://github.com/user-attachments/assets/122fea97-7c20-4d97-b2c5-ba8b1c50a0f6)
 
 | ‘뉴스’, ‘공지사항’, ‘채용’, ‘사업’ 등 탭으로 분류하여 한눈에 다양한 정보를 탐색 가능.  
 | 각 카드엔 이미지, 제목, 요약 본문이 있어 시각 중심 정보 전달에 효과적입니다.
 
 ---
 
-#### 섹션4 : 지원 사업 소개 섹션
+#### 섹션3 : 베스트 강의 섹션
 
-![지원 사업 소개 섹션](https://github.com/user-attachments/assets/5bd10c51-97d1-4de1-a334-aad00669b40e)
+![베스트강의](https://github.com/user-attachments/assets/7084e9db-d90f-4445-819a-54d518067423)
 
 | 다양한 예술 지원 사업을 탭 인터페이스로 전환 가능.  
 | 각 사업별 컬러 아이덴티티 적용으로 구분이 쉬우며 시각적 일관성도 유지됩니다.
 
 ---
 
-#### 섹션5 : 카운트 다운 섹션
+#### 섹션4 : 얼리버드 섹션
 
-![카운트다운](https://github.com/user-attachments/assets/6ae9d4c1-8c7b-4bf2-bd6f-68ddc2d33c49)
+![얼리버드](https://github.com/user-attachments/assets/3eeafd06-3949-4d0d-8976-195fb83a041b)
 
 | Swiper 슬라이더로 구성된 발간자료 뷰.  
 | 마우스 호버 시 확대 효과와 함께 요약 정보 노출로 상호작용 유도하였습니다.
 
 ---
 
-#### 섹션6 : 블로그
+#### 섹션5 : 블로그 섹션
 
-![블로그](https://github.com/user-attachments/assets/e93ec526-4634-48ed-a967-75a905fe8330)
+![블로그](https://github.com/user-attachments/assets/4c2d847e-6601-44cc-a465-a21f9dfb5d4f)
 
 | 지도 API와 대중교통 정보 등을 포함하여 방문자의 **실질적인 편의성**을 고려하였습니다.
+
+---
+
+#### 섹션6 : 팁 & 테크 섹션
+
+![팁&테크](https://github.com/user-attachments/assets/97c2df9f-39b3-4c29-a355-6c0af32ac00f)
+
+| 공지사항, 지원사업, 교육과정 등 자주 찾는 기능을 아이콘으로 배치하여 **빠른 접근성** 확보하였습니다..  
+| 직관적인 UI로 정보 탐색 시간 단축.
+
+---
+
+#### 섹션7 : 푸터 섹션
+
+![푸터](https://github.com/user-attachments/assets/b7df1116-ec7e-4240-83b0-e4b38d261d5f)
+
+| 공지사항, 지원사업, 교육과정 등 자주 찾는 기능을 아이콘으로 배치하여 **빠른 접근성** 확보하였습니다..  
+| 직관적인 UI로 정보 탐색 시간 단축.
 
 ---
 
