@@ -121,7 +121,7 @@
 
 #### 서브01 : 로그인
 
-![로그인](https://github.com/user-attachments/assets/3de76f5a-71c1-4083-9265-87f938b6aaa8)
+![로그인](https://github.com/user-attachments/assets/d2dc8ecd-4af0-4f00-b5dc-cb6fe79ee72b)
 
 | 티켓 예매 페이지로 구성되며, Swiper로 다양한 전시/공연 정보를 정리.  
 | 오른쪽 상단에 티켓 유형별 색상 라벨 적용.  
@@ -131,7 +131,7 @@
 
 #### 서브02 : 회원가입
 
-![공지사항](https://github.com/user-attachments/assets/7aabe0dc-eb9b-4084-bd3b-0bc472a55916)
+![회원가입](https://github.com/user-attachments/assets/5290c44a-c93b-45be-b13b-a2015b1f26c2)
 
 | 하단의 페이지네이션을 이용하여 10개씩 순차적으로 넘어가게 배치해두었습니다.  
 | AOS 스크롤 애니메이션을 통해 지루함 없는 사용자 경험 제공.
@@ -153,7 +153,7 @@
 
 #### 서브04 : 장바구니
 
-![공지사항](https://github.com/user-attachments/assets/7aabe0dc-eb9b-4084-bd3b-0bc472a55916)
+![장바구니](https://github.com/user-attachments/assets/0e965085-db4d-4c70-b13a-afcd03b58c14)
 
 | 하단의 페이지네이션을 이용하여 10개씩 순차적으로 넘어가게 배치해두었습니다.  
 | AOS 스크롤 애니메이션을 통해 지루함 없는 사용자 경험 제공.
