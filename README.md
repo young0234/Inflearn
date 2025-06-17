@@ -140,7 +140,10 @@
 
 #### 서브03 : 상세페이지
 
-![로그인](https://github.com/user-attachments/assets/3de76f5a-71c1-4083-9265-87f938b6aaa8)
+![상세페이지2](https://github.com/user-attachments/assets/d5e4787a-910f-4382-8136-9e639accd67d)
+![상세페이지3](https://github.com/user-attachments/assets/7ec15cc9-af8b-431e-9a81-abf6cebd17cf)
+
+
 
 | 티켓 예매 페이지로 구성되며, Swiper로 다양한 전시/공연 정보를 정리.  
 | 오른쪽 상단에 티켓 유형별 색상 라벨 적용.  
