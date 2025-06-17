@@ -140,12 +140,14 @@
 
 #### 서브03 : 상세페이지
 
-![상세페이지2](https://github.com/user-attachments/assets/d5e4787a-910f-4382-8136-9e639accd67d)
-![상세페이지3](https://github.com/user-attachments/assets/7ec15cc9-af8b-431e-9a81-abf6cebd17cf)
-
-
+![상세페이지1](https://github.com/user-attachments/assets/6d3c43ee-4468-4770-847b-305c1afb50e7)
 
 | 티켓 예매 페이지로 구성되며, Swiper로 다양한 전시/공연 정보를 정리.  
+![상세페이지2](https://github.com/user-attachments/assets/d5e4787a-910f-4382-8136-9e639accd67d)
+
+| 티켓 예매 페이지로 구성되며, Swiper로 다양한 전시/공연 정보를 정리.  
+![상세페이지3](https://github.com/user-attachments/assets/7ec15cc9-af8b-431e-9a81-abf6cebd17cf)
+
 | 오른쪽 상단에 티켓 유형별 색상 라벨 적용.  
 | 안내 섹션 및 아코디언 메뉴로 사용자 편의를 강화.
 
@@ -162,7 +164,6 @@
 
 ## 🚀 링크
 
-- [🔗 기획안 보기](https://docs.google.com/presentation/d/1NKfuPp0fPNx5C2RKO1NsUgs95fHsvwiHL9vtKUwOn_A/edit?usp=sharing)
-- [🎨 디자인 시안](https://www.figma.com/design/ImRE0J6im2BMgnxrXQ7Fsz/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80%EB%A6%AC%EB%89%B4%EC%96%BC_%EB%B0%95%EC%84%9C%EC%98%81?node-id=1-6&m=dev&t=RHWFTcaEK6r6dOuV-1)
-- [🌐 DEMO 페이지](https://young0234.github.io/artcenter/)
+- [🎨 디자인 시안](https://www.figma.com/design/FARNKdnAIcQ5WngSMrL0pj/%ED%81%B4%EB%9E%98%EC%8A%A4101?node-id=0-1&m=dev&t=TamZ5RxhDKgN7HvQ-1)
+- [🌐 DEMO 페이지](https://young0234.github.io/Inflearn/)
 
